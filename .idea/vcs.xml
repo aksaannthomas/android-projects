@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BmiIndex" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CMenuApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DeptApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LoanApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ProjHyButtonColor" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mvc_dbr" vcs="Git" />
+  </component>
+</project>
